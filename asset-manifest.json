@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "https://mcrtabot.github.io/MCSRImageBuilder/static/js/main.0c09853d.js",
+    "main.js": "https://mcrtabot.github.io/MCSRImageBuilder/static/js/main.eadf6c05.js",
     "index.html": "https://mcrtabot.github.io/MCSRImageBuilder/index.html",
-    "main.0c09853d.js.map": "https://mcrtabot.github.io/MCSRImageBuilder/static/js/main.0c09853d.js.map"
+    "main.eadf6c05.js.map": "https://mcrtabot.github.io/MCSRImageBuilder/static/js/main.eadf6c05.js.map"
   },
   "entrypoints": [
-    "static/js/main.0c09853d.js"
+    "static/js/main.eadf6c05.js"
   ]
 }
