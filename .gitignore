@@ -1,0 +1,6 @@
+node_modules/
+web/node_modules/
+web/build/
+web/public
+web/src/index.tsx
+.DS_Store
